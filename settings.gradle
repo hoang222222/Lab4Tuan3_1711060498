@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Lab4Tuan3_1711060498"
